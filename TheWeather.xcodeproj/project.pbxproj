@@ -341,7 +341,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = NBU6B5VB4T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = /Users/nikitaburin/Desktop/TheWeather1/Info.plist;
+				INFOPLIST_FILE = /Users/nikitaburin/Desktop/TheWeather/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -368,7 +368,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = NBU6B5VB4T;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = /Users/nikitaburin/Desktop/TheWeather1/Info.plist;
+				INFOPLIST_FILE = /Users/nikitaburin/Desktop/TheWeather/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
